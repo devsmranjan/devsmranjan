@@ -1,5 +1,3 @@
-<div style="color:orange;">Word up</div>
-
 <p align="center">
 
   <img src="https://avatars1.githubusercontent.com/u/30388973?s=400&u=56487a484f656d29cd91f3ee5153c6bd5d443457&v=4" width="16%" style="border-radius: 8px">
@@ -25,6 +23,19 @@
 
 <br>
 
+
+
+<div align="center">
+<samp>
+
+#### Languages and Tools
+   
+</samp>
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&labelColor=1ca0f1&logo=python&logoColor=white)
+
+</div>
+
 <div align="center">
 
 [![Twitter URL](https://img.shields.io/badge/devsmranjan-blue?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devsmranjan)](https://twitter.com/devsmranjan) [![Facebook URL](https://img.shields.io/badge/devsmranjan-4064AD?style=for-the-badge&labelColor=547dd1&logo=facebook&logoColor=white&link=https://www.facebook.com/devsmranjan)](https://www.facebook.com/devsmranjan) [![Linkedin URL](https://img.shields.io/badge/devsmranjan-1ca0f1?style=for-the-badge&labelColor=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/devsmranjan)](https://www.linkedin.com/in/devsmranjan)
@@ -33,11 +44,8 @@
 
 </div>
 
-
-
-
-
+<br/>
 
 <p align="center">
-  <i> Open to anything under the stars :sparkles: </i>
+  Open to anything under the stars :sparkles:
 </p>
