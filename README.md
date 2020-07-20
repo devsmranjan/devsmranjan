@@ -29,6 +29,7 @@
 <!-- <samp> -->
 
 #### Skills & Tools
+<hr/>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-e3b500?style=for-the-badge&labelColor=F4D148&logo=javascript&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Dart](https://img.shields.io/badge/Dart-155598?style=for-the-badge&labelColor=44B2EF&logo=dart&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Python](https://img.shields.io/badge/Python-376D9C?style=for-the-badge&labelColor=F3CB47&logo=python&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Java](https://img.shields.io/badge/Java-2B738B?style=for-the-badge&labelColor=fa7f11&logo=java&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan)
 
@@ -48,6 +49,7 @@
 <div align="center">
 
 #### Let's get connected
+<hr/>
 
 [![Twitter URL](https://img.shields.io/badge/devsmranjan-blue?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devsmranjan)](https://twitter.com/devsmranjan) [![Facebook URL](https://img.shields.io/badge/devsmranjan-4064AD?style=for-the-badge&labelColor=547dd1&logo=facebook&logoColor=white&link=https://www.facebook.com/devsmranjan)](https://www.facebook.com/devsmranjan) [![Linkedin URL](https://img.shields.io/badge/devsmranjan-2978B1?style=for-the-badge&labelColor=2f9ceb&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/devsmranjan)](https://www.linkedin.com/in/devsmranjan) [![Instagram URL](https://img.shields.io/badge/devsmranjan-7537B6?style=for-the-badge&labelColor=EA8139&logo=instagram&logoColor=white&link=https://www.instagram.com/devsmranjan)](https://www.instagram.com/devsmranjan) [![Gmail URL](https://img.shields.io/badge/smrutiranjan.developer@gmail.com-c14438?style=for-the-badge&labelColor=e85d4f&logo=gmail&logoColor=white&link=mailto:smrutiranjan.developer@gmail.com)](mailto:smrutiranjan.developer@gmail.com)
 
