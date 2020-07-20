@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://avatars1.githubusercontent.com/u/30388973?s=400&u=56487a484f656d29cd91f3ee5153c6bd5d443457&v=4" width="16%" style="border-radius: 8px">
+  <img src="assets/smruti-ranjan-rana.png" width="16%">
   <br><br>
   <samp>
     I'm Smruti Ranjan Rana :wave:
