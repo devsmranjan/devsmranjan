@@ -5,7 +5,7 @@
   <samp>
     I'm Smruti Ranjan Rana :wave:
     <br><br>
-    I work as a Web :globe_with_meridians: and Mobile App :iphone: developer!
+    I am a Fullstack Web :globe_with_meridians: and Mobile App :iphone: developer!
     <br><br>
     I believe in a world where a cup of coffee :coffee: can solve all problems :grin:
     <br><br>
@@ -38,7 +38,7 @@
 
 [![Mongo DB](https://img.shields.io/badge/Mongo%20DB-449743?style=for-the-badge&labelColor=5fd45d&logo=mongodb&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Firebase](https://img.shields.io/badge/Firebase-EEA23F?style=for-the-badge&labelColor=F2C545&logo=firebase&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![My SQL](https://img.shields.io/badge/My%20SQL-DD8B38?style=for-the-badge&labelColor=205F87&logo=mysql&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-32648D?style=for-the-badge&labelColor=4b8dc4&logo=postgresql&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan)
 
-[![Github](https://img.shields.io/badge/GitHub-201E1E?style=for-the-badge&labelColor=4d4d4d&logo=github&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-2D071E?style=for-the-badge&labelColor=E549B8&logo=adobe-xd&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4081ED?style=for-the-badge&labelColor=F1B843&logo=google-assistant&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Google Assistant](https://img.shields.io/badge/Docker-368DAF?style=for-the-badge&labelColor=3598E6&logo=docker&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan)
+[![Github](https://img.shields.io/badge/GitHub-201E1E?style=for-the-badge&labelColor=4d4d4d&logo=github&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Docker](https://img.shields.io/badge/Docker-368DAF?style=for-the-badge&labelColor=3598E6&logo=docker&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-2D071E?style=for-the-badge&labelColor=E549B8&logo=adobe-xd&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan) [![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4081ED?style=for-the-badge&labelColor=F1B843&logo=google-assistant&logoColor=white&link=https://github.com/devsmranjan)](https://github.com/devsmranjan)
 
 
 </div>
@@ -49,7 +49,7 @@
 
 #### Let's get connected
 
-[![Twitter URL](https://img.shields.io/badge/devsmranjan-blue?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devsmranjan)](https://twitter.com/devsmranjan) [![Facebook URL](https://img.shields.io/badge/devsmranjan-4064AD?style=for-the-badge&labelColor=547dd1&logo=facebook&logoColor=white&link=https://www.facebook.com/devsmranjan)](https://www.facebook.com/devsmranjan) [![Linkedin URL](https://img.shields.io/badge/devsmranjan-2978B1?style=for-the-badge&labelColor=2f9ceb&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/devsmranjan)](https://www.linkedin.com/in/devsmranjan) [![Gmail URL](https://img.shields.io/badge/smrutiranjan.developer@gmail.com-c14438?style=for-the-badge&labelColor=e85d4f&logo=gmail&logoColor=white&link=mailto:smrutiranjan.developer@gmail.com)](mailto:smrutiranjan.developer@gmail.com)
+[![Twitter URL](https://img.shields.io/badge/devsmranjan-blue?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devsmranjan)](https://twitter.com/devsmranjan) [![Facebook URL](https://img.shields.io/badge/devsmranjan-4064AD?style=for-the-badge&labelColor=547dd1&logo=facebook&logoColor=white&link=https://www.facebook.com/devsmranjan)](https://www.facebook.com/devsmranjan) [![Linkedin URL](https://img.shields.io/badge/devsmranjan-2978B1?style=for-the-badge&labelColor=2f9ceb&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/devsmranjan)](https://www.linkedin.com/in/devsmranjan) [![Instagram URL](https://img.shields.io/badge/devsmranjan-7537B6?style=for-the-badge&labelColor=EA8139&logo=instagram&logoColor=white&link=https://www.instagram.com/devsmranjan)](https://www.linkedin.com/in/devsmranjan) [![Gmail URL](https://img.shields.io/badge/smrutiranjan.developer@gmail.com-c14438?style=for-the-badge&labelColor=e85d4f&logo=gmail&logoColor=white&link=mailto:smrutiranjan.developer@gmail.com)](mailto:smrutiranjan.developer@gmail.com)
 
 </div>
 
