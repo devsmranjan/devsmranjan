@@ -39,7 +39,7 @@
 
 ![Linkedin URL](https://img.shields.io/twitter/url?color=blue&label=devsmranjan&logo=Linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdevsmranjan%2F)
 
-![Twitter URL](https://img.shields.io/badge/devsmranjan-blue?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devsmranjan)
+[![Twitter URL](https://img.shields.io/badge/devsmranjan-blue?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdevsmranjan%2F)](https://twitter.com/devsmranjan)
 
 ![Linkedin URL](https://img.shields.io/badge/devsmranjan-1ca0f1?style=for-the-badge&labelColor=blue&logo=linkedin&logoColor=white&link=https://twitter.com/devsmranjan)
 
