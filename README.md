@@ -5,7 +5,7 @@
   <samp>
     I'm Smruti Ranjan Rana :wave:
     <br><br>
-    Student | Fullstack Web Developer | Flutter developer
+    Fullstack Web Developer | Flutter developer
     <br><br>
     I believe in a world where a cup of coffee :coffee: can solve all problems :grin:
     <br><br>
