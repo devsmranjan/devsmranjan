@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="./assets/smruti-ranjan-rana.png" width="16%">
+  <img src="https://github.com/devsmranjan/devsmranjan/blob/master/assets/smruti-ranjan-rana.png" alt="smruti ranjan rana" width="16%">
   <br><br>
   <samp>
     I'm Smruti Ranjan Rana :wave:
