@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![Twitter URL](https://img.shields.io/badge/devsmranjan-blue?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devsmranjan)](https://twitter.com/devsmranjan){:target="_blank"} [![Facebook URL](https://img.shields.io/badge/devsmranjan-4064AD?style=for-the-badge&labelColor=547dd1&logo=facebook&logoColor=white&link=https://www.facebook.com/devsmranjan)](https://www.facebook.com/devsmranjan){:target="_blank"} [![Linkedin URL](https://img.shields.io/badge/devsmranjan-1ca0f1?style=for-the-badge&labelColor=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/devsmranjan)](https://www.linkedin.com/in/devsmranjan){:target="_blank"}
+[![Twitter URL](https://img.shields.io/badge/devsmranjan-blue?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devsmranjan)](https://twitter.com/devsmranjan) [![Facebook URL](https://img.shields.io/badge/devsmranjan-4064AD?style=for-the-badge&labelColor=547dd1&logo=facebook&logoColor=white&link=https://www.facebook.com/devsmranjan)](https://www.facebook.com/devsmranjan) [![Linkedin URL](https://img.shields.io/badge/devsmranjan-1ca0f1?style=for-the-badge&labelColor=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/devsmranjan)](https://www.linkedin.com/in/devsmranjan)
 
 [![Gmail URL](https://img.shields.io/badge/smrutiranjan.developer@gmail.com-c14438?style=for-the-badge&labelColor=e85d4f&logo=gmail&logoColor=white&link=mailto:smrutiranjan.developer@gmail.com)](mailto:smrutiranjan.developer@gmail.com)
 
