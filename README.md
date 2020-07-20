@@ -32,7 +32,7 @@
    
 </samp>
 
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&labelColor=1ca0f1&logo=python&logoColor=white)]('https://github.com/devsmranjan')
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&labelColor=1ca0f1&logo=python&logoColor=white&link=https://github.com/devsmranjan)]('https://github.com/devsmranjan')
 
 </div>
 
