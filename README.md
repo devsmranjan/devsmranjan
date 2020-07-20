@@ -53,7 +53,7 @@ I'm a final student pursuing Bachelors's in Computer Science & Engineering 🎓 
 </div>
 
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
