@@ -33,9 +33,6 @@ I'm a final student pursuing Bachelors's in Computer Science 🎓 from Orissa En
 
 </div>
 <br>
-<br>
-
-
 
 <div align="center">
 <!-- <samp> -->
