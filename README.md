@@ -5,7 +5,7 @@
   <samp>
     I'm Smruti Ranjan Rana :wave:
     <br><br>
-    I am a Fullstack Web :globe_with_meridians: and Mobile App :iphone: developer!
+    Student | Fullstack Web Developer :globe_with_meridians: | Flutter developer :iphone:
     <br><br>
     I believe in a world where a cup of coffee :coffee: can solve all problems :grin:
     <br><br>
