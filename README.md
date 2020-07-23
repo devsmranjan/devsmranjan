@@ -32,6 +32,7 @@ I'm a final student pursuing Bachelors's in Computer Science & Engineering 🎓 
 </p>
 
 <br>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsmranjan&theme=dark&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
 
