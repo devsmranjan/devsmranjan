@@ -19,8 +19,6 @@
 
 ![Smruti Ranjan Rana's GitHub States](https://github-readme-stats.vercel.app/api?username=devsmranjan&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsmranjan&theme=dark&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 <br>
@@ -32,6 +30,10 @@
 <p>
 I'm a final student pursuing Bachelors's in Computer Science & Engineering 🎓 from Orissa Engineering College, Bhubaneswar  🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Fullstack Web Development 🕸️ and Flutter Development 🤓.
 </p>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsmranjan&theme=dark&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <br>
