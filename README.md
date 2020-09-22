@@ -70,6 +70,6 @@ I'm a final student pursuing Bachelors's in Computer Science & Engineering 🎓 
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   Open to anything under the stars :sparkles:
-</p>
+</p> -->
